@@ -39,28 +39,7 @@
 
 [![Nahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HadiUzzaman04&theme=react-dark)](https://github.com/HadiUzzaman04/github-readme-activity-graph)
 
-      
-<!-- <p align=center>
-  <div align=center>
-    <a href="https://github.com/HadiUzzaman04/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HadiUzzaman04&theme=react&border=61dafb&hide_border=true" alt="HadiUzzaman04" />
-    </a>
-    <a href="https://github.com/HadiUzzaman04/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HadiUzzaman04&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/HadiUzzaman04/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiUzzaman04&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
-    </a>
-  </div>
-  <br>
-</p> -->
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HadiUzzaman04&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/HadiUzzaman04/github-readme-activity-graph) -->
-
-
+    
 <hr>
 
 </p>
@@ -70,12 +49,11 @@
 </p>
 
 <p align="center">
-<a href="https://nahid.kodkofe.com"><img src="https://img.shields.io/badge/-nahid.kodkofe.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nahid-nsu152"><img src="https://img.shields.io/badge/-Nazmul%20Hasan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nahid.nsu152@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/nazmul___hasan_nahid"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/nahid-nsu152"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/14656752/nazmul-hasan"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hadi-uzzaman-347b32147/"><img src="https://img.shields.io/badge/-Hadi%20Uzzaman%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hadi24x7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://instagram.com/nazmul___hasan_nahid"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
+<a href="https://www.facebook.com/04hadi/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/18372352/hadi-uzzaman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
 </body>
