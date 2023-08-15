@@ -37,7 +37,7 @@
 
 <br> <br>
 
-[![Nahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HadiUzzaman04&theme=react-dark)](https://github.com/HadiUzzaman04/github-readme-activity-graph)
+[![Hadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HadiUzzaman04&theme=react-dark)](https://github.com/HadiUzzaman04/github-readme-activity-graph)
 
     
 <hr>
@@ -51,7 +51,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hadi-uzzaman-347b32147/"><img src="https://img.shields.io/badge/-Hadi%20Uzzaman%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hadi24x7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://instagram.com/nazmul___hasan_nahid"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
+<!-- <a href="https://instagram.com/Hadi_uzzaman_mridul"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://www.facebook.com/04hadi/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/18372352/hadi-uzzaman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
 </p>
